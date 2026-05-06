@@ -1,4 +1,4 @@
-# 🚀 Naukri Job Market Intelligence Dashboard
+# 🚀Multi Domain Job MArket Analysis Dashbaord - Naukri 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Selenium](https://img.shields.io/badge/Web%20Scraping-Selenium-green)
